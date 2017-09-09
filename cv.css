@@ -4,11 +4,16 @@
 	font-size : 16px;
 	font-family : 'Source sans Pro', Calibri, Tahoma, sans-serif;
 }
-.infophoto{
+.infophotoperso{
 	height : 250px;
 }
 .info{
 	float : left;
+}
+.perso{
+	position : absolute;
+	top : 78px;
+	left : 645px;
 }
 .photo{
 	float : right;
