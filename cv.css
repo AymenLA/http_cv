@@ -11,9 +11,10 @@
 	float : left;
 }
 .perso{
-	position : absolute;
-	top : 78px;
-	left : 645px;
+	float:middle;
+}
+#milieu p{
+	margin-left : 380px;
 }
 .photo{
 	float : right;
@@ -85,6 +86,6 @@ body{
 .section:hover{
 	color : #0033BB;
 }
-.infophoto:hover{
+.infophotoperso:hover{
 	color : #0033BB;
 }
